@@ -62,7 +62,7 @@ For your own deployment, **change the default credentials** before sharing or us
 Connect your ESP32 using USB and select the correct port.
 
 ### Code Flash
-Flash Here 👉 <a href="https://esptool.spacehuhn.com">Esptool.spacehuhn.com</a>
+Flash Here 👉 <a href="https://esp32king.github.io/">Esp32king.github.io/</a>
 
 ### 2nd Step
 <a href="https://github.com/esp32king/ESP32-FRP-BYPASS/releases/download/bypass-frp-through-esp32/bootloader.bin">bootloader.bin</a> → 0x1000
